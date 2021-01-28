@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1526909742 source:c:\users\mwidg\desktop\personnel information system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
